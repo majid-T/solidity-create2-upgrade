@@ -4,7 +4,7 @@
   "description": "Upgrade a contract using create2",
   "main": "index.js",
   "dependencies": {
-    "ethers": "^4.0.46",
+    "ethers": "^4.0.49",
     "truffle": "^5.1.18"
   },
   "devDependencies": {},
