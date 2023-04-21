@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ethers": "^4.0.46",
-    "truffle": "^5.1.18"
+    "truffle": "^5.8.3"
   },
   "devDependencies": {},
   "scripts": {
